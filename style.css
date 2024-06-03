@@ -3,3 +3,10 @@
   padding: 2px;
   background-color: aquamarine;
 }
+body {
+  background-color: red;
+}
+h1 {
+  font-size: large;
+  color: aqua;
+}
